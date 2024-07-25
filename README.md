@@ -9,7 +9,7 @@
 - Get account information of any [Codeforces](https://codeforces.com) account in existence
 - Enter as many handles as you want
 - Requires Internet Access
-- All information is fetched from the [Codeforces API](https://codeforces.com/api)
+- All information is fetched from the [Codeforces API](https://codeforces.com/apiHelp)
 
 
  ## Screenshots
